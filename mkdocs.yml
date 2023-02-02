@@ -1,4 +1,4 @@
-site_name: Crucible Documentation
+site_name: CWD Tools
 extra_css:
   - stylesheets/extra.css
 theme:
