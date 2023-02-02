@@ -5,27 +5,23 @@ theme:
   name: material
   #custom_dir: !ENV [THEME_DIR, "material"]
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.indexes
-    - toc.integrate
-  #logo: assets/img/crucible-icon-c-alpha.svg
-  #favicon: assets/img/crucible-icon-c-alpha.svg
+    - navigation.top
+  logo: assets/img/cwdLogo.png
+  favicon: assets/img/cwdLogo.png
   palette:
     # Palette toggle for light mode
     - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+      # toggle:
+      #   icon: material/brightness-7
+      #   name: Switch to dark mode
       primary: black
 
     # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-      primary: black
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
+    #   primary: black
 nav:
   - Home: index.md
   
