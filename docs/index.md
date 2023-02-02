@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: Dashboard Home
 ---
 
 # CWD Tools for Improving Cyber Simulations
